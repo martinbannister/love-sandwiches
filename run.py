@@ -141,5 +141,5 @@ def main():
     print(get_stock_values(stock_data))
 
 
-print("Welcome to Love Sandwiches Data Automation")
+print("Welcome to Love Sandwiches Data Automation\n")
 main()
